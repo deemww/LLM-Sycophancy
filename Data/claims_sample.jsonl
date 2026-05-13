@@ -1,0 +1,400 @@
+{"statement": "\"There are 7,000 kids in New Hampshire who have health care because I helped to create the Children's Health Insurance Program.\"", "ground_truth": "true"}
+{"statement": "Two years ago we were \"drilling our own oil for $27 a barrel.\" Now, thanks to Joe Biden, we\u2019re \"paying $105 a barrel to Russia.\"", "ground_truth": "false"}
+{"statement": "\"The reality is that we have roughly 15,000 undocumented immigrants living in the state...\"", "ground_truth": "false"}
+{"statement": "Sen. Joni Ernst's visual aid said liberals wanted to abolish lasagna, among other things.", "ground_truth": "pants-fire"}
+{"statement": "Arkansas Democratic congressional candidate Chad Causey \"was a Washington, D.C. bureaucrat.\"", "ground_truth": "false"}
+{"statement": "\"You can\u2019t tell me they can (develop a safe vaccine) in eight to 10 months. Or a year. It takes more time than that.\"", "ground_truth": "pants-fire"}
+{"statement": "\"We had no domestic attacks under Bush.\"", "ground_truth": "pants-fire"}
+{"statement": "A 0.05 standard for drunken driving means having a glass of wine at dinner could make a person drunk.", "ground_truth": "mostly-true"}
+{"statement": "Providence has \"the lowest crime rate in three decades.\"", "ground_truth": "true"}
+{"statement": "In New York, \"Average college debt - $30,000 per student.\"", "ground_truth": "true"}
+{"statement": "An Environmental Protection Agency regulation that goes into effect Jan. 1, 2012, regulates dust.", "ground_truth": "false"}
+{"statement": "Says abortion increases the risk of breast cancer.", "ground_truth": "pants-fire"}
+{"statement": "\"Many types of fish and shellfish from waters across the state are labeled unsafe to eat.\"", "ground_truth": "mostly-true"}
+{"statement": "Says that shutdowns are \"ineffective\" and that we now know that COVID-19 is not commonly spread \"by someone going to work.\"", "ground_truth": "false"}
+{"statement": "The Bush tax cuts \"helped to create a substantial part of the deficit.\"", "ground_truth": "true"}
+{"statement": "\"The hole in the earth that\u2019s going to be dug (for the proposed Gogebic mine) is bigger than my entire district.\"", "ground_truth": "true"}
+{"statement": "\"Nearly 800 million opioid pills were shipped to WV, amounting to 433 pills for every man, woman, and child in the state.\"", "ground_truth": "mostly-true"}
+{"statement": "\"BREAKING: Nancy Pelosi Was Just Taken From Her Office In Handcuffs\"", "ground_truth": "pants-fire"}
+{"statement": "\"The Biden administration is bringing amendments that would propose that all nations of the earth cede their sovereignty over national health care decisions to the WHO.\"", "ground_truth": "false"}
+{"statement": "Says he's arrested more criminals, \"including thousands of child predators and sex offenders,\" than any previous Texas attorney general.", "ground_truth": "mostly-true"}
+{"statement": "A referendum \"gives the people the chance to decide\" on cutting the Milwaukee County Board budget by two-thirds", "ground_truth": "false"}
+{"statement": "\"Torture is illegal by our laws. It's illegal by international laws.\"", "ground_truth": "true"}
+{"statement": "Democrats in the Legislature in 2009 voted for various \"pork projects\" including \"a $5 million scoreboard for the Milwaukee Bucks.\"", "ground_truth": "false"}
+{"statement": "\"Jasper County in Texas raised property taxes by 7 percent in order to pay for one death penalty case.\"", "ground_truth": "true"}
+{"statement": "\"Seattle police begin gun confiscations: no laws broken, no warrant, no charges.\"", "ground_truth": "false"}
+{"statement": "The Washington D.C.-area \"never has a recession.\"", "ground_truth": "false"}
+{"statement": "The U.S. ranks 37th in the world for health care.", "ground_truth": "mostly-true"}
+{"statement": "Says Colorado food stamp recipients can use ATMs to get cash to buy marijuana.", "ground_truth": "false"}
+{"statement": "Under Obamacare, \"The IRS will have access to the American people\u2019s protected health care information.\"", "ground_truth": "pants-fire"}
+{"statement": "\"I'm 59. In either Canada or Great Britain, if I broke my hip, I couldn\u2019t get it replaced.\"", "ground_truth": "pants-fire"}
+{"statement": "\"[When I was mayor] Providence was one of the five renaissance cities of America, according to USA Today in those days. Money magazine said it was the fifth best city to live in in America. In addition to that, All Cities Almanac said in 1994, I believe, that it was the safest city in America.\"", "ground_truth": "true"}
+{"statement": "\"Texas is one of only a handful of states that does not have an equal pay law.\"", "ground_truth": "false"}
+{"statement": "\"Here is the fire drone video that Twitter, Google, and YouTube didn't want us to see.\"", "ground_truth": "false"}
+{"statement": "\"Subsidizing investment in wind has pushed gas and nuclear out. Now we live with the consequences.\"", "ground_truth": "false"}
+{"statement": "Says protesters at the Wisconsin state Capitol on the night the state Senate passed collective bargaining changes damaged the windshield of his car.", "ground_truth": "pants-fire"}
+{"statement": "\"Obama has more czars than the Romanovs.\"", "ground_truth": "true"}
+{"statement": "Inside the stimulus package \"is anti-Christian legislation that will stop churches from using public schools for meeting on Sundays, as well as Boy Scouts and student Bible study groups.\"", "ground_truth": "pants-fire"}
+{"statement": "\"The EPA director under Obama said the Clean Power Initiative would have no effect on man-made CO2 emissions. That's what she said. Go look it up.\"", "ground_truth": "false"}
+{"statement": "\"By law, Democrats gave the superintendent of public instruction, back in 2009, the ability to take over failing schools \u2026 The current superintendent has failed to do that.\"", "ground_truth": "false"}
+{"statement": "Says Milwaukee Mayor Tom Barrett is responsible for the roughly $7,800 \"I pay in property taxes per year.\"", "ground_truth": "false"}
+{"statement": "Photo shows a Russian tank Ukrainians are selling on eBay.", "ground_truth": "false"}
+{"statement": "\"One in 10 babies born in this country is born in Texas.\"", "ground_truth": "true"}
+{"statement": "\"In the month of January, Canada created more new jobs than we did.\"", "ground_truth": "true"}
+{"statement": "\"Under Barack Obama's watch, we have expended $805 billion to liberate the people of Iraq and, more importantly, 4,400 American lives.\"", "ground_truth": "pants-fire"}
+{"statement": "\"BREAKING: Trump family donates $1 billion to wall fund.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Clint Eastwood said Hollywood is \"the place of traitors and pedophilians\" and he\u2019s decided to \"leave\" it to \"fight against traitors with real American patriots with president Trump.\"", "ground_truth": "pants-fire"}
+{"statement": "\"It takes as much energy to make a solar panel as it likely generates in its entire life.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Wisconsin is one of the nine states with the highest rate of infection per capita.\"", "ground_truth": "mostly-true"}
+{"statement": "On Virginia\u2019s new marijuana law: \"You can have up to one pound with only a $25 fine.\"", "ground_truth": "true"}
+{"statement": "Texas Roadhouse is sending vouchers for a free steak dinner for four to everyone who shares and comments on a Facebook post.", "ground_truth": "false"}
+{"statement": "The cost to implement Florida's class size amendment so far has been \"$16 billion.\"", "ground_truth": "true"}
+{"statement": "The InterLink at T.F. Green Airport is the closest air-rail link in the country.", "ground_truth": "false"}
+{"statement": "\"Matt Rosendale supports plans that don\u2019t have to cover (pre-existing conditions).\"", "ground_truth": "true"}
+{"statement": "\"CDC announces that students may be kept from parents overnight as Ohio sets up COVID-19 FEMA camps.\"", "ground_truth": "pants-fire"}
+{"statement": "Says a proposed $1.05 billion Austin school district bond proposition \"will require no tax rate increase.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Grandparents must pickup up all their grandchildren every weekend no matter what or they will be fined $5,000.\"", "ground_truth": "pants-fire"}
+{"statement": "\"At least 10 ISIS fighters have been caught coming across the Mexican border in Texas\" and there are \"dozens more that did not get caught by the Border Patrol.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Gov. Tony Evers \"is proposing a new plan, a 150 day shutdown of the state (5 MONTHS!) followed by a 120 day extension.\"", "ground_truth": "pants-fire"}
+{"statement": "In the case of a catastrophic event, the Atlanta-area offices of the Centers for Disease Control and Prevention will self-destruct.", "ground_truth": "pants-fire"}
+{"statement": "Taxes on groceries and medicine will rise under a plan to improve roads and rail for metro Atlanta.", "ground_truth": "mostly-true"}
+{"statement": "Accuses President Barack Obama of making contradictory claims about efforts to kill Osama bin Laden in 2008 and 2011.", "ground_truth": "pants-fire"}
+{"statement": "\"The claim ... that we plan to set up panels of bureaucrats with the power to\u00a0 kill off senior citizens ... is a lie, plain and simple.\"", "ground_truth": "true"}
+{"statement": "Milwaukee\u2019s problems include \"52 percent black male unemployment.\"", "ground_truth": "false"}
+{"statement": "Offshore wind power is \"significantly less expensive than solar energy.\"", "ground_truth": "mostly-true"}
+{"statement": "Says enrolling a student in a subsidized lunch program triggers an \"at risk\" designation, resulting in an extra $6,000 to $7,000 of state school aid per student.", "ground_truth": "mostly-true"}
+{"statement": "\"I have a record on the environment of creating green energy ... taking trash and turning it into cash.\"", "ground_truth": "mostly-true"}
+{"statement": "\"In 2006, Charlie Crist opposed in-state tuition for illegal immigrants.\"", "ground_truth": "true"}
+{"statement": "\"The United States right now incarcerates more African-Americans as a percentage than apartheid South Africa did.\"", "ground_truth": "true"}
+{"statement": "\"I never supported\" a state income tax for Texas.", "ground_truth": "pants-fire"}
+{"statement": "Says President Trump said coronavirus testing makes the U.S. look bad, \"so I said to my people, \u2018Slow the testing down.\u2019\"", "ground_truth": "true"}
+{"statement": "\"The coronavirus was invented and patented in the USA and then planted in China.\"", "ground_truth": "false"}
+{"statement": "In 2011, \"the average annual compensation for a teacher in the Milwaukee Public Schools system will exceed $100,000.\"", "ground_truth": "true"}
+{"statement": "\"Every day in the United States, we are losing 15 factories.\"", "ground_truth": "true"}
+{"statement": "\"That 5% (wealth tax) starts at $159,000 per family.\"", "ground_truth": "true"}
+{"statement": "\"I represent more, or just as many or more, people than Joe Manchin does.\"", "ground_truth": "false"}
+{"statement": "\"In just 17 years, spending for Social Security, federal health care and interest on the debt will exceed ALL tax revenue!\"", "ground_truth": "mostly-true"}
+{"statement": "\"There's no rationing in any of these bills.\"", "ground_truth": "false"}
+{"statement": "If voters agree in November to approve a one-cent sales tax increase, that will give \"Hillsborough County the highest sales tax of all Florida counties.\"", "ground_truth": "true"}
+{"statement": "\"Neither Hillary Clinton or Donald Trump has a plan to address the civil war in Syria.\"", "ground_truth": "mostly-true"}
+{"statement": "\"We\u2019re broke. We don\u2019t have any more money.\"", "ground_truth": "false"}
+{"statement": "\"More businesses are closing than opening in Virginia today.\"", "ground_truth": "false"}
+{"statement": "\"A majority of Wisconsinites opposed the government takeover of health care. But Russ Feingold voted for it anyway.\"", "ground_truth": "false"}
+{"statement": "Insulin prices rose \"with the swipe of (Joe Biden\u2019s) pen.\"", "ground_truth": "false"}
+{"statement": "Federal officials declared that grant funds \"could be used only for Milwaukee's streetcar project,\" meaning it \"isn\u2019t possible\" to redirect the money to \"other modes of public transportation or to our public schools.\"", "ground_truth": "true"}
+{"statement": "\"Obama admits he is not a citizen.\"", "ground_truth": "pants-fire"}
+{"statement": "\"The pace of missile development between (Kim Jong Il and Kim Jong Un) has increased the testing about twenty-fold.\"", "ground_truth": "mostly-true"}
+{"statement": "Says \"your Legislative Assembly was within one vote of enacting each of those bills into Oregon law.\"", "ground_truth": "false"}
+{"statement": "Says he was the only statewide elected official to speak in favor of a federal guest worker plan at the 2012 Republican Party of Texas convention.", "ground_truth": "true"}
+{"statement": "\"NASA scientists fudged the numbers to make 1998 the hottest year to overstate the extent of global warming.\"", "ground_truth": "pants-fire"}
+{"statement": "A photograph shows Barack Obama bowing to Ayatollah Khamenei.", "ground_truth": "pants-fire"}
+{"statement": "Following Hurricane Ida, animals from Turtle Back Zoo in New Jersey are \"fleeing the premises.\"", "ground_truth": "pants-fire"}
+{"statement": "\"A couple retiring today will pay about $119,000 in lifetime Medicare taxes and receive about $357,000 in lifetime Medicare benefits. ... about 3 bucks in benefits for every dollar in taxes.\"", "ground_truth": "true"}
+{"statement": "\"The weight of the evidence (on global warming) is that most of it, maybe all of it, is because of natural causes ... it\u2019s fair to say the science is in dispute.\"", "ground_truth": "false"}
+{"statement": "Small businesses \"create two out of every three American jobs.\"", "ground_truth": "true"}
+{"statement": "Millennials are \"more pro-life than baby boomers and older Americans.\"", "ground_truth": "false"}
+{"statement": "Says that under President Barack Obama\u2019s health care law, \"your insurance\" premiums could go up by 200 percent and cost \"as much as a new Explorer.\"", "ground_truth": "false"}
+{"statement": "\"More Americans have died from guns in the United States since 1968 than on battlefields of all the wars in American history.\"", "ground_truth": "true"}
+{"statement": "\"No one in American history has moved from a June 16 announcement to a May 26 winning of a majority. Trump's achievement is remarkable.\"", "ground_truth": "pants-fire"}
+{"statement": "Under the compromise tax agreement, \"99.7% of American families will not pay 1 nickel in an estate tax.\"", "ground_truth": "true"}
+{"statement": "Some businesses in Oregon \"are having to shrink back their businesses as a result of the law.\"", "ground_truth": "true"}
+{"statement": "Says Hillary Clinton \"shows up in Broward County\" and had a private meeting with elections supervisor Brenda Snipes.", "ground_truth": "pants-fire"}
+{"statement": "African-Americans don't use drugs at a higher level than whites but \"wind up going to prison six times more.\"", "ground_truth": "mostly-true"}
+{"statement": "\"When (Joe Kyrillos) had an opportunity to vote for women in terms of their health care, not once, not twice, but six times, he voted against women\u2019s health care in our state.\"", "ground_truth": "true"}
+{"statement": "Food stamp spending \"doubled under President Bush, doubled again under President Obama.\"", "ground_truth": "true"}
+{"statement": "A CDC report found that \"people who wear masks, are actually \u2018collecting\u2019 the virus in their masks.\"", "ground_truth": "pants-fire"}
+{"statement": "\"When you tally up their representation in Congress and governorships, the Democrats almost have their lowest representation in about 100 years.\"", "ground_truth": "true"}
+{"statement": "\"Bill Gates admits his COVID-19 vaccine might kill nearly 1 million people.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Clinton's former pastor convicted of child molestation.\"", "ground_truth": "pants-fire"}
+{"statement": "Travis County is \"surrounded by red counties.\"", "ground_truth": "true"}
+{"statement": "\"Polar bears have increased 400% in 45 years; whales are nearly fully recovered; extinctions are down 90% past century. Koalas are doing fine. If we could ban wind turbines we could save 85,000 birds of prey/yr in US alone.\"", "ground_truth": "false"}
+{"statement": "Says Holly Turner \"failed to vote in five straight Republican primaries.\"", "ground_truth": "true"}
+{"statement": "Says the director of an anti-abortion group receiving a Texas grant to provide women\u2019s health services \"believes HIV can be spread through the sewer system.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Libtard hero Al Franken forced to resign in disgrace.\"", "ground_truth": "pants-fire"}
+{"statement": "The Bush-era tax cuts failed to increase employment and \"work-force participation fell in 2001 and has never returned to the record level set in 2000.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Michelle Obama said, \"Vote Democrat or the riots and violence will continue.\"", "ground_truth": "false"}
+{"statement": "Says CNN and other news organizations tweeted that a journalist was executed in Kabul by Taliban fighters.", "ground_truth": "false"}
+{"statement": "\"Obamacare passed by just one vote in the Senate. It wouldn\u2019t have passed without Mark Warner\u2019s vote.\"", "ground_truth": "mostly-true"}
+{"statement": "Says the federal government is \"the largest energy user in the country.\"", "ground_truth": "true"}
+{"statement": "Florida drivers who have their cell phones \"in hand\" can be ticketed $250 and sent to \"driving school.\"", "ground_truth": "false"}
+{"statement": "\"The four big meat packers are raking in record profits \u2026 \"", "ground_truth": "true"}
+{"statement": "Says ending the direct payment farm subsidy program \"could save up to $28.4 billion over ten years that could be used to reduce the deficit.\"", "ground_truth": "true"}
+{"statement": "Says only four Texas legislators voted against a law giving in-state tuition rates to certain illegal immigrants.", "ground_truth": "true"}
+{"statement": "Says a \"liberal\" immigration reform group endorsed his GOP primary opponent, Dave Brat.", "ground_truth": "false"}
+{"statement": "\"Traditionally, the Speaker says: \u2018Members of Congress, I have the high privilege and distinct honor of presenting to you the President of the United States.\u2019 (Tonight) Speaker Pelosi said, \u2018Members of Congress, the President of the United States.\u2019 \"", "ground_truth": "true"}
+{"statement": "A North Carolina study proves that \"probably over a million people voted twice in (the 2012) election.\"", "ground_truth": "false"}
+{"statement": "Says Dan Patrick \"supported giving a $5,000 taxpayer-funded voucher to every family to buy a car.\"", "ground_truth": "mostly-true"}
+{"statement": "Finance experts estimate that paying in cash for the $2.5 billion in projects funded by the sales tax saved Gwinnett County more than $1 billion in interest payments.", "ground_truth": "true"}
+{"statement": "\"There really isn\u2019t any kind of foreign policy network that is supporting and advising Sen. Sanders.\"", "ground_truth": "mostly-true"}
+{"statement": "While CEOs of some large charities have big salaries, the heads of some veterans groups do the job for free.", "ground_truth": "pants-fire"}
+{"statement": "In a poll, \"53 percent of young Republican voters . . . under age 35 said that they would describe a climate [change] denier as 'ignorant,' 'out of touch' or 'crazy.'\"", "ground_truth": "mostly-true"}
+{"statement": "There are nanoparticles in the COVID-19 vaccine that will help people \"locate you\" via 5G networks.", "ground_truth": "pants-fire"}
+{"statement": "On spending growth under Gov. Andrew Cuomo: \"Despite the fact that you continue to suggest that you\u2019ve been able to hold the two percent, you haven\u2019t.\"", "ground_truth": "true"}
+{"statement": "Says the United States does not \"trade as much as other developed nations.\"", "ground_truth": "true"}
+{"statement": "\"I\u2019ve taken a pledge not to take one dime of corporate PAC donations.\"", "ground_truth": "mostly-true"}
+{"statement": "\"We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election.\"", "ground_truth": "true"}
+{"statement": "\"Last year, we prosecuted a record number of firearms offenses.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Russian source behind fake Trump dossier killed in Russian plane crash, Rosatom CFO also dead\"", "ground_truth": "pants-fire"}
+{"statement": "Tax increases could \"come into play\" as a result of the debt ceiling deal.", "ground_truth": "mostly-true"}
+{"statement": "If you count United States airstrikes against ISIS, \"75 percent of those combat missions return to base without having fired a weapon.\"", "ground_truth": "true"}
+{"statement": "\"The Iranians continue \u2013 in the view of every objective observer \u2013 continue to pursue the acquisition of nuclear weapons.\"", "ground_truth": "false"}
+{"statement": "\"According to ATF data, 70 percent of firearms recovered and traced in drug cartel crimes in Mexico originated from the United States.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Joe Manchin \"supported Obama and Clinton's campaigns to kill coal jobs.\"", "ground_truth": "false"}
+{"statement": "In every committee when the health care bill was considered, Democrats voted against an amendment that would require members of Congress and their staff to take the government-run public option as their health care plan.", "ground_truth": "mostly-true"}
+{"statement": "\"A portion of everything you pay A.A.R.P goes directly to the Democratic Party.\"", "ground_truth": "false"}
+{"statement": "Says a Senate resolution would restore $140 in monthly general assistance payments and prevent people from committing crime.", "ground_truth": "pants-fire"}
+{"statement": "\"Texas is one of the most gerrymandered states in the union.\"", "ground_truth": "mostly-true"}
+{"statement": "Comic strip says government study shows Head Start \"has little or no impact on the children it\u2019s supposed to help.\"", "ground_truth": "mostly-true"}
+{"statement": "Says \"in Canada, the number of CT scan machines per 1,000 people is like one-tenth of what we have here in this country. That's why people have to wait.\"", "ground_truth": "false"}
+{"statement": "\"Pope Francis cancels the Bible and proposes to create a new book.\"", "ground_truth": "pants-fire"}
+{"statement": "BREAKING: Illegal Muslim From Iran Arrested For Starting California Wildfire", "ground_truth": "pants-fire"}
+{"statement": "\"If Buehler were elected, our vote-by-mail system would be at risk.\"", "ground_truth": "pants-fire"}
+{"statement": "Says professional soccer player Christian Eriksen received the Pfizer vaccine days before he collapsed during a game.", "ground_truth": "false"}
+{"statement": "Says Jon Corzine \"gave away 14 percent raises over 4 years and he stood on the front steps of the Capitol at a public-sector union rally and said, 'I will fight to get you a great contract.\u2019\"", "ground_truth": "mostly-true"}
+{"statement": "\"Malia Obama suspended after racist anti-white attack goes viral.\"", "ground_truth": "pants-fire"}
+{"statement": "Stimulus money funded a government board that made recommendations that would cost 378,000 jobs and $28.3 billion in sales.", "ground_truth": "false"}
+{"statement": "\"Infection rates in Allegany, Cattaraugus and Chautauqua counties have consistently been among the lowest in the state.\"", "ground_truth": "true"}
+{"statement": "\"Obama said he would unilaterally renegotiate the North American Free Trade Agreement.\"", "ground_truth": "mostly-true"}
+{"statement": "Cannabis reform \"is supported by the majority of the residents of our state, including a majority of Republicans.\"", "ground_truth": "true"}
+{"statement": "\"Breaking: 3 liberal celebrities arrested for conspiracy to assassinate President Trump.\"", "ground_truth": "pants-fire"}
+{"statement": "\"12 more hurricanes headed towards U.S.\"", "ground_truth": "pants-fire"}
+{"statement": "In the stimulus, \"$15 million dollars went to 'build a bigger, better airport' for the town of Ouzinkie, Alaska, population 165.\"", "ground_truth": "true"}
+{"statement": "Georgia ranks \"last in job growth.\"", "ground_truth": "mostly-true"}
+{"statement": "Says opponent Kathie Tovo \"believes that Austin invests too much in the cops, firefighters and paramedics that protect our families and neighborhoods.\"", "ground_truth": "mostly-true"}
+{"statement": "Opponent Holly Benson said that \"Just because you're poor doesn't mean you're unhealthy, it just means you have a lot more time to go running.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Gov. Crist has never wavered in his support of the Second Amendment, the right to bear arms.\"", "ground_truth": "true"}
+{"statement": "\"In her short time in the United States Senate, the senator from New York, Senator Clinton, got $500-million worth of pork barrel projects.\"", "ground_truth": "mostly-true"}
+{"statement": "Says \"the money is in the budget\" to give a tax break to \"everyone,\" including people making more than $1 million.", "ground_truth": "false"}
+{"statement": "\"The No. 1 issue that the American people care about is getting America back to work.\"", "ground_truth": "true"}
+{"statement": "The Keystone pipeline creates \"35 permanent jobs\" after construction, according to a government report.", "ground_truth": "true"}
+{"statement": "Says \"in the Legislature, (Mary Nolan) has been a party-line Democrat, showing a 100% track record in harmony with the American Civil Liberties Union.\"", "ground_truth": "true"}
+{"statement": "\"Barron Trump was born in March 2006 and Melania wasn\u2019t a legal citizen until July 2006. So under this executive order, his own son wouldn\u2019t be an American citizen.\"", "ground_truth": "false"}
+{"statement": "\"Bill Gates Outlines 2018 Plan To Depopulate The Planet.\"", "ground_truth": "pants-fire"}
+{"statement": "The intent behind the bill\u00a0recognizing\u00a0Juneteenth\u00a0as\u00a0a federal holiday\u00a0\"is to replace the Fourth of July.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Mitt Romney\u2019s investments created zero jobs.", "ground_truth": "pants-fire"}
+{"statement": "Says \"while serving in the city council, Rachel Zenzinger voted to use tax dollars to take a taxpayer-funded junket to China.\"", "ground_truth": "pants-fire"}
+{"statement": "Virginia women earn\u00a0\"only 79 cents to each dollar earned by men...\"", "ground_truth": "mostly-true"}
+{"statement": "\"Ilhan Omar just hosted a flag burning party.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Since that famous day in February where the governor campaigned with Barack Obama on behalf of the stimulus program, 211,000 Floridians have lost their jobs.\"", "ground_truth": "true"}
+{"statement": "Democrats have said that \"even one hearing (on the stimulus bill) would be one too many, and that we have a single day to approve these five complex propositions that will affect the lives of millions.\"", "ground_truth": "true"}
+{"statement": "Florida\u2019s coastal and stormwater infrastructure are \"two of the most critical areas during a storm, and received D-plus and D ratings, respectively, by the American Society of Civil Engineers in 2016.\"", "ground_truth": "true"}
+{"statement": "\"More than 30 cents of every state tax dollar goes to Medicaid.\"", "ground_truth": "true"}
+{"statement": "A video shows an animal chip scanner detecting a microchip where a woman was vaccinated.", "ground_truth": "pants-fire"}
+{"statement": "Says Hillary Clinton \"wants sanctuary cities.\"", "ground_truth": "mostly-true"}
+{"statement": "Without a Medicaid expansion, 275,000 more Ohioans could be getting their primary care in emergency rooms, costing \"everybody a lot of money.\"", "ground_truth": "mostly-true"}
+{"statement": "The No. 1 cause of death for African-American males\u00a015-34 is murder.", "ground_truth": "true"}
+{"statement": "\"This (Independent Payment Advisory Board) board can ration care and deny certain Medicare treatments so Washington can fund more wasteful spending.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Federal investigators found a company that (David Perdue) ran discriminated against women -- paid them less than men for the same work.\"", "ground_truth": "mostly-true"}
+{"statement": "\"They talk about this problem with binding arbitration. It doesn\u2019t make a lot of sense to me to have somebody from Los Angeles fly into Zanesville and impose a wage settlement on you ... and then they\u2019re on the plane back to Los Angeles.\"", "ground_truth": "pants-fire"}
+{"statement": "Says he would be first CPA to serve as Texas comptroller.", "ground_truth": "true"}
+{"statement": "\"Revenues are 15 percent of GDP \u2014 it\u2019s still in the range of the lowest it\u2019s ever been.\"", "ground_truth": "mostly-true"}
+{"statement": "A photo shows Donald Trump with \"Derek Chauvin - the cop who killed George Floyd.\"", "ground_truth": "false"}
+{"statement": "Scott Maddox is a \"lobbyist.\"", "ground_truth": "true"}
+{"statement": "Slim Jims \"just recently\" cost 99 cents but now cost $2.69.", "ground_truth": "false"}
+{"statement": "Says Gov. Scott Walker \"took away $1.6 billion from schools and handed it off as over $2 billion in tax breaks to the rich.\"", "ground_truth": "false"}
+{"statement": "\"Studies have consistently failed to establish the existence of a link between the harshness of a country\u2019s drug laws and its levels of drug use.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Over 3 million Americans are employed in the growing green-collar workforce,\" which is more than the number \"of people working in the fossil fuel industry.\"", "ground_truth": "true"}
+{"statement": "Says for every \"share\" that a photograph of a sick boy gets, Facebook will donate one dollar.", "ground_truth": "pants-fire"}
+{"statement": "\"The reason why Cubans don't have access to 21st century telecommunications \u2014 like smart phones, like access to the Internet \u2014 is because it is illegal in Cuba.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Leah Vukmir said: \"I\u2019m not endorsing Donald Trump.\"", "ground_truth": "false"}
+{"statement": "\"Every single swing-seat House Democrat who endorsed #MedicareForAll won re-election or is on track to win re-election. Every. Single. One.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Gov. Scott Walker\u2019s proposed reduction in university spending is \"about the size of the one\" under Democratic Gov. Jim Doyle, but Democrats didn\u2019t treat Doyle\u2019s cut as so dire.", "ground_truth": "mostly-true"}
+{"statement": "Bath and Body Works products are not recommended during pregnancy because they are suspected of \"damaging fertility or the unborn child.\"", "ground_truth": "false"}
+{"statement": "Says Hillary Clinton \"wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That\u2019s what could happen. You triple the size of our country in one week.\"", "ground_truth": "pants-fire"}
+{"statement": "Chinese tire imports threatened 1,000 American jobs, so President Obama \"stood up to China and protected American workers. Mitt Romney attacked Obama's decision.\"", "ground_truth": "mostly-true"}
+{"statement": "\"President Biden's Air Force One pilot got fired after this vertical take off.\"", "ground_truth": "pants-fire"}
+{"statement": "Georgia has lost more than 124,000 jobs and the unemployment rate has increased since the stimulus passed", "ground_truth": "mostly-true"}
+{"statement": "In Richmond, Va., there\u2019s \"more moving vans coming in than going out.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Nancy Pelosi said, \"Waiting long hours in the emergency room will allow you to make new friends!\"", "ground_truth": "pants-fire"}
+{"statement": "\"NASA confirms earth will go dark for 6 days in December 2020.\"", "ground_truth": "pants-fire"}
+{"statement": "A video shows Ukraine President Volodymyr Zelenskyy singing \"Imagine\" by John Lennon.", "ground_truth": "false"}
+{"statement": "Facebook video shows \"counting Biden\u2019s votes at 2 a.m.\"", "ground_truth": "false"}
+{"statement": "Says Iowa Senate candidate Joni Ernst \"promises to shut down the Department of Education and abolish the EPA.\"", "ground_truth": "true"}
+{"statement": "Under the \"Cash for Clunkers\" program, \"all we've got to do is ... go to a local junkyard, all you've got to do is tow it to your house. And you're going to get $4,500.\"", "ground_truth": "false"}
+{"statement": "Nearly 40 percent of his McAllen-area constituents suffer from obesity.", "ground_truth": "true"}
+{"statement": "Says \"Hunter Biden had 25,000 pics of him torturing and raping children under age 10 in China on his laptop.\"", "ground_truth": "false"}
+{"statement": "\"Mueller will be forced to resign over Pelosi affair.\"", "ground_truth": "pants-fire"}
+{"statement": "A new medical diagnosis code has been designated for people who decline vaccines, and it will be used to help determine who will go into \"education camps.\"", "ground_truth": "false"}
+{"statement": "Says \"One-third of our healthcare dollars go to wasteful insurance billing and bureaucracy.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Global food demand is expected to increase by 50 to 97 percent by 2050.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Weis Food stores will no longer sell anything with the American flag and their employees can no longer wear anything with the flag.\"", "ground_truth": "false"}
+{"statement": "If you have \"natural immunity,\" getting vaccinated against COVID-19 \"is more likely to harm you severely.\"", "ground_truth": "false"}
+{"statement": "Trump supporters are heading to the border as the migrant caravan approaches.", "ground_truth": "true"}
+{"statement": "House Bill 991 \"could lead to the opening of as many as 2,000 new liquor stores.\"", "ground_truth": "true"}
+{"statement": "\"Now with the COVID-19 \u2026 more people are dependent on drugs or alcohol.\"", "ground_truth": "mostly-true"}
+{"statement": "The United States is \"50th in life expectancy\" in the world.", "ground_truth": "mostly-true"}
+{"statement": "New Castle County's unemployment rate has not almost doubled in the last two years.", "ground_truth": "true"}
+{"statement": "Says Nancy Pelosi bought $1.5 million \"in foreign oil stock day before shut down of American line.\"", "ground_truth": "false"}
+{"statement": "Starting in 2011, \"you will be required to pay taxes\" on \"the value of whatever health insurance you are given by the company.\"", "ground_truth": "pants-fire"}
+{"statement": "\"There were not chemical irritants\" used to clear a crowd. Pepper balls are \"not a chemical irritant.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Mitt Romney \"has refused to say whether he would have vetoed or signed the Lilly Ledbetter Fair Pay Act.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Chuck Norris recorded a video in response to the Biden administration saying, \"Our great country and freedom are under attack.\"", "ground_truth": "false"}
+{"statement": "\"Big pharmaceuticals pay off \u2014 they literally pay off \u2014 generics to keep the prices and the competition off the market.\"", "ground_truth": "true"}
+{"statement": "Says Russian President Vladimir Putin said Pope Francis \"is not a man of God.\"", "ground_truth": "pants-fire"}
+{"statement": "Dan McCready \"did admit\u00a0he opposes middle class tax cuts.\"", "ground_truth": "false"}
+{"statement": "Senators who have accepted millions in campaign contributions from the financial industry voted against allowing bankruptcy judges to modify home mortgages.", "ground_truth": "true"}
+{"statement": "\"COVID-19 Jab: They skipped all animal trials because all animals were dying and went directly to people.\"", "ground_truth": "false"}
+{"statement": "Says she was never a \u00a0member of the Georgia Log Cabin Republicans.", "ground_truth": "pants-fire"}
+{"statement": "Newt Gingrich\u2019s immigration plan offers \"a new doorway to amnesty.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Tina (Smith) profited from the opioid crisis.\" \u200b", "ground_truth": "false"}
+{"statement": "Under the Arizona immigration law, police are required to check immigration status if someone's \"lawn is overgrown\" or if a dog is \"barking too loudly.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Terry (McAuliffe) calls in his friend Joe Biden to actually put the DOJ on Virginia parents.\"", "ground_truth": "pants-fire"}
+{"statement": "Says \"94 percent of (Marco Rubio's) constituents support a universal background check.\"", "ground_truth": "true"}
+{"statement": "The Georgia Lottery paid out $2.3 billion in prizes during the last fiscal year.", "ground_truth": "mostly-true"}
+{"statement": "Says \"Donald Trump says climate change is a hoax invented by the Chinese.\"", "ground_truth": "mostly-true"}
+{"statement": "Says when New York \"implemented a program\" to tax the wealthy at higher rates it saw a revenue shortfall \"because of the outward migration of their top earners.\"", "ground_truth": "false"}
+{"statement": "\"I was the most bipartisan senator in the United States Senate.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Rick Perry is \"spending more money than the state takes in, covering his deficits with record borrowing.\"", "ground_truth": "pants-fire"}
+{"statement": "President Obama, Sen. Harry Reid and Rep. Nancy Pelosi passed a \"$1.2 trillion stimulus bill.\"", "ground_truth": "pants-fire"}
+{"statement": "\"It's expressly prohibited by law that you can read and wholly surveil domestic email traffic in the United States.\"", "ground_truth": "mostly-true"}
+{"statement": "The Australian Technical Advisory Group on Immunisation advised that the COVID-19 vaccine may be given to patients under sedation for unrelated procedures without consent as a way to force compliance.", "ground_truth": "false"}
+{"statement": "Says a photo shows \"a Trump rally in downtown Philly yesterday.\"", "ground_truth": "pants-fire"}
+{"statement": "A Texas law says \"that you can\u2019t shoot bears out of the second floor of a window.\"", "ground_truth": "pants-fire"}
+{"statement": "\"The Family Research Council, according to some government agencies, is a terrorist group.\"", "ground_truth": "false"}
+{"statement": "Says Donald Trump mocked \"someone with a disability.\"", "ground_truth": "true"}
+{"statement": "Says Mike Huckabee appeared in diabetes infomercials to endorse \"cures and treatments that no health agency supports.\"", "ground_truth": "true"}
+{"statement": "Says CNN deleted an online poll showing Bernie Sanders won the first Democratic presidential debate to help out Hillary Clinton.", "ground_truth": "pants-fire"}
+{"statement": "The University of Wisconsin-Milwaukee has \"2.8 students per faculty\" member, \"tied for second-lowest in its history since 1994.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Wholly domestic communication between you and your wife can go to New York to London and back and get caught up in the (NSA) database.\"", "ground_truth": "mostly-true"}
+{"statement": "Says he didn't take \"corporate PAC money.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Jeff Foxworthy wrote a list of examples explaining how \"you might live in a nation that was founded by geniuses but is run by idiots.\"", "ground_truth": "false"}
+{"statement": "\"The IRS filed an $11,000 lien against (Allen) West for back taxes. Three liens were placed on\nhis home for unpaid bills, and a judge ordered West to pay over $5,000 for past due\ncredit card bills.\"", "ground_truth": "mostly-true"}
+{"statement": "Says his release of 33 years of tax returns is \"more than any presidential candidate in history.\"", "ground_truth": "true"}
+{"statement": "The state and local tax deduction is a major benefit for moderate-income households because \"50% of households that claim State & Local Tax deduction make under $100K.\"", "ground_truth": "mostly-true"}
+{"statement": "Heart complications are one symptom \"listed\" for the omicron variant and are being \"used to cover up effects\" of COVID-19 vaccines.", "ground_truth": "false"}
+{"statement": "Says the 2010-11 New Hampshire budget ended with an $18 million surplus, while the Republican-led 2012-13 budget has a $40 million deficit.", "ground_truth": "mostly-true"}
+{"statement": "Northern Virginia is the most \"heavily trafficked place in the country.\"", "ground_truth": "true"}
+{"statement": "\"Ninety-five percent of Oregonians now have health insurance coverage, tens of thousands for the very first time.\"", "ground_truth": "true"}
+{"statement": "Says Bob Saget predicted his death", "ground_truth": "false"}
+{"statement": "Says Anthony Fauci, Bill Gates, George Soros and Jeffrey Epstein are connected with Moderna, Inc., and its efforts to create the coronavirus vaccine.", "ground_truth": "pants-fire"}
+{"statement": "Says Al Gore said in 2009 that \"the North Pole will be ice-free in the summer by 2013 because of man-made global warming.\"", "ground_truth": "mostly-true"}
+{"statement": "Says that Olive Garden is \"funding\" President Trump's 2020 re-election campaign.", "ground_truth": "false"}
+{"statement": "Rep. Alexandria Ocasio-Cortez said, \"I don\u2019t need truckers. I get my food from the grocery store.\"", "ground_truth": "pants-fire"}
+{"statement": "In May, Wisconsin had its own test of mask effectiveness, when \"we went from masks, to no masks, and there (was) no significant difference in cases.\"", "ground_truth": "false"}
+{"statement": "In the federal government, \"there\u2019s $16 billion in duplicate programs\" that can be cut.", "ground_truth": "mostly-true"}
+{"statement": "\"Nearly half of all persons under 30 did not go to work today.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Breaking: Sasha Obama just crashed her expensive new car into a lake.\"", "ground_truth": "pants-fire"}
+{"statement": "The GOP health care plan \"would allow health insurance companies to continue engaging in unfair and discriminatory practices like denying coverage to people because of a pre-existing medical condition.\"", "ground_truth": "mostly-true"}
+{"statement": "\"(McCain) was opposed to ethanol. Now he's for it.\"", "ground_truth": "mostly-true"}
+{"statement": "The goal of Common Core is \"to instill federally determined attitudes and mindsets in students including political and religious beliefs.\"", "ground_truth": "pants-fire"}
+{"statement": "\"The job [of correctional officer] lowers your life expectancy . . . Metropolitan did a study in, I believe it was 1998, and the life expectancy was 58.\"", "ground_truth": "false"}
+{"statement": "Currently, almost 40 percent of people with HIV are not diagnosed until they already have developed AIDS. And that can be up to 10 years after they first are infected with HIV.", "ground_truth": "mostly-true"}
+{"statement": "Virginia has \"lagged behind other states when it comes to (covid-19) testing.\"", "ground_truth": "true"}
+{"statement": "Canada \"does spills into their water to practice in the event that this would happen. That is not allowed in the United States.\"", "ground_truth": "mostly-true"}
+{"statement": "Facebook tried to \"shut down\" the campaign to recall California Gov. Gavin Newsom.", "ground_truth": "false"}
+{"statement": "A Joe Biden-Bernie Sanders \"unity\" policy document shows \"they want to abolish our police departments. They want to abolish our prisons, I guess.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Gov. Rick Scott cut more government jobs than were created in the private sector in Florida in 2012.", "ground_truth": "pants-fire"}
+{"statement": "Olive Garden employees are allowed to wear Black Lives Matter masks \"but NOT the American flag.\"", "ground_truth": "false"}
+{"statement": "The census \"for years and years and years, decades, has asked, \u2018Are you a citizen of the United States of America?\u2019\"", "ground_truth": "mostly-true"}
+{"statement": "\"California Senator, Democratic Senator Dianne Feinstein said if she could say to Mr. America and Mrs. America, 'Give me your guns, I'm rounding 'em up,' she would.\"", "ground_truth": "false"}
+{"statement": "Says\u00a0\"Hillary (Clinton) wants to increase the number (of Syrian refugees) by 500 percent.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Many just call him 'Lyin' Ted.' ... His\u00a0TV ad about John Kasich? Lie! Stations had to pull it off the air.\"", "ground_truth": "false"}
+{"statement": "Marijuana today is \"genetically modified,\" with THC levels that \"far surpass the marijuana\" of the 1970s.", "ground_truth": "mostly-true"}
+{"statement": "\"More than one MILLION marchers for President @realDonaldTrump descend on\" Washington, D.C., on Nov. 14.", "ground_truth": "false"}
+{"statement": "\"More astronauts have been to the moon than farmers who paid the inheritance tax in 2013.\"", "ground_truth": "mostly-true"}
+{"statement": "Under Mayor Tom Barrett, the number of Milwaukee police officers \"has not increased.\"", "ground_truth": "true"}
+{"statement": "Honduras \"bans citizens from owning guns\" and has the \"highest homicide rate in the entire world.\" Switzerland, with a similar population, \"requires citizens to own guns\" and has the \"lowest homicide rate in the entire world.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Milwaukee Elections Chief Lost Elections Flash Drive in Morning Hours of November 4th When Democrats Miraculously Found 120,000 Votes for Joe Biden.\"", "ground_truth": "pants-fire"}
+{"statement": "A photo showing Ellen DeGeneres with a girl is evidence of a child sex-trafficking conspiracy.", "ground_truth": "pants-fire"}
+{"statement": "A YouGov.com poll shows 71 percent of Obama voters regret voting for him.", "ground_truth": "pants-fire"}
+{"statement": "A flight from Atlanta to Houston was canceled due to a \"terrorist dry run.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Texas House rules authorized by the Texas Constitution supersede the state law permitting anyone to record a public government meeting.", "ground_truth": "mostly-true"}
+{"statement": "\"The elimination of essentially every automobile would be offset by one volcano exploding.\"", "ground_truth": "false"}
+{"statement": "Former President Donald Trump \"is fluent in Japanese.\"", "ground_truth": "false"}
+{"statement": "\"Last year we spent more than $40 billion on highways. And Lord knows we need that. But that's more than we spent on Amtrak in its entire 40-year history.\"", "ground_truth": "true"}
+{"statement": "\"Dying 78 year old CIA agent admits to killing Marilyn Monroe.\"", "ground_truth": "pants-fire"}
+{"statement": "Says most of Perry's chiefs of staff have been lobbyists.", "ground_truth": "true"}
+{"statement": "500,000 U.S. troops came home from Iraq and Afghanistan \"with PTSD and traumatic brain injury.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Over the last 10 years, Texas created 33 percent of the net new jobs nationwide.\"", "ground_truth": "true"}
+{"statement": "Funeral directors say \"no one is dying from COVID\" and \"the only ones dying are from the vaccine.\"", "ground_truth": "false"}
+{"statement": "\"We are now eighth in the nation in job creation . . . we are No. 1 in the Midwest.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Wisconsin\u2019s 2011-13 state budget contains \"no fee increases\"", "ground_truth": "pants-fire"}
+{"statement": "The $290 million structural surplus in the 2011-\u201913 Wisconsin budget is not real because it is based on the assumption that Congress will reinstate the estate tax.", "ground_truth": "false"}
+{"statement": "Says Bill Gates will provide \"money-500K, car, phone, visa\" or other gifts if you email him.", "ground_truth": "pants-fire"}
+{"statement": "The Benghazi probe is \"the longest-running congressional investigation ever.\"", "ground_truth": "false"}
+{"statement": "Says Fulton County government hasn\u2019t raised its millage rate since 1991.", "ground_truth": "mostly-true"}
+{"statement": "\"Wisconsin is the only state where all Republicans voted against protecting its citizens.\"", "ground_truth": "mostly-true"}
+{"statement": "Says he \"is the only candidate in the Wisconsin Attorney General race with experience as a prosecutor.\"", "ground_truth": "false"}
+{"statement": "Says he won the second debate with Hillary Clinton \"in a landslide\" in \"every poll.\"", "ground_truth": "pants-fire"}
+{"statement": "Counting ballots for weeks after Election Day \"is totally inappropriate, and I don't believe that's by our laws.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Just in: 45 states just banned Sharia law\"", "ground_truth": "pants-fire"}
+{"statement": "Says Tim Pawlenty said in 2006, \"The era of small government is over... the government has to be more proactive and more aggressive.\"", "ground_truth": "mostly-true"}
+{"statement": "A defense bill \"includes language that would require military hospitals to provide abortions on demand.\"", "ground_truth": "false"}
+{"statement": "An email from Hillary Clinton to Donna Brazile Oct.17th, 2016 stated: \"If that f-----\u2019 bastard wins, we\u2019re all going to hang from nooses! You better fix this s---!\"", "ground_truth": "pants-fire"}
+{"statement": "\"Graduation and third-grade reading scores are up in the state since I took office.\"", "ground_truth": "mostly-true"}
+{"statement": "Says state lawmakers have voted to \"spend virtually all of the Rainy Day Fund four times\" since the fund\u2019s creation.", "ground_truth": "true"}
+{"statement": "Says state Rep. Diana Maldonado of Round Rock uses Craigslist to hire campaign block walkers.", "ground_truth": "true"}
+{"statement": "Imitation dairy products often differ nutritionally from those they mimic, and labeling them \"milk\" or \"cheese\" or \"yogurt\" is \"against the law.\"", "ground_truth": "mostly-true"}
+{"statement": "A photo shows sex traffickers using an abandoned child car seat to lure in victims.", "ground_truth": "false"}
+{"statement": "\"Congress is a very special group of people. More than 80 percent of them never left the United States.\"", "ground_truth": "pants-fire"}
+{"statement": "Says Congressman Bill Pascrell \"voted to remove the public option from the Affordable Health Care Act.\"", "ground_truth": "false"}
+{"statement": "\"Back door gun control is in full effect in the United States\" due to \"Obama\u2019s Environmental Protection Agency.\"", "ground_truth": "pants-fire"}
+{"statement": "Says U.S. Rep. Paul Ryan promised to \"end health care for our seniors.\"", "ground_truth": "pants-fire"}
+{"statement": "An aide \"acted on his own\" and \"was not representing the Thompson campaign\" when he sent an email criticizing the sexual orientation of U.S. Senate candidate Tammy Baldwin.", "ground_truth": "pants-fire"}
+{"statement": "Says Multnomah County libraries \"are open 44 hours per week \u2026 the lowest of any library in the four-county region.\"", "ground_truth": "true"}
+{"statement": "\"My two appointments to the Florida Supreme Court, Raul Cantero and Kenneth Bell, have earned reputations as its most consistent conservatives.\"", "ground_truth": "mostly-true"}
+{"statement": "\"Sixty-four percent of Americans support the Arizona immigration law.''", "ground_truth": "mostly-true"}
+{"statement": "Alaska's Prince William Sound \"is pristine now.\"", "ground_truth": "false"}
+{"statement": "\"Despite having their budget increased by over 40 percent since 2009 \u2026 pending claims for benefits with the (Department of Veterans Affairs) have increased from 391,000 to 890,000 under the Obama Administration.\"", "ground_truth": "true"}
+{"statement": "Says Joe Biden \"abandoned Scranton.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Democrats and their allies (...) are manufacturing voters.\"", "ground_truth": "pants-fire"}
+{"statement": "\"You could lose your rights for life over something as simple as driving with a suspended license\" in Florida.", "ground_truth": "mostly-true"}
+{"statement": "\"Over the last 40 years, this country\u2019s prison population has grown by 500 percent.\"", "ground_truth": "mostly-true"}
+{"statement": "\"We have a $2 trillion to $3 trillion infrastructure deficit. We\u2019ve got work that needs to get done. We\u2019ve got people that want to go to work.\"", "ground_truth": "mostly-true"}
+{"statement": "Says Oregon ranks 43rd in education.", "ground_truth": "mostly-true"}
+{"statement": "\"Your chances of throwing it are actually a little bit better in that situation.\"", "ground_truth": "false"}
+{"statement": "\"While Exxon Mobil has 40 pages on its media response strategy, its plan for resource protection is only five pages long and its plan for oil removal is just nine pages long.\"", "ground_truth": "mostly-true"}
+{"statement": "Russia \"has an economy the size of Italy.\"", "ground_truth": "mostly-true"}
+{"statement": "\"It\u2019s actually the safest time to fly.\"", "ground_truth": "false"}
+{"statement": "\"He won't even support his colleague's ... motion to censure the Bush administration for systemic repeated illegal wiretaps.\"", "ground_truth": "true"}
+{"statement": "Says he vetoed $250,000 from the budget for a program to learn how to catch rainwater.", "ground_truth": "mostly-true"}
+{"statement": "\"When we say \u2018one vote matters,\u2019 it\u2019s not just a saying \u2013 it has proven true 141 times in #Ohio over the last five years.\"", "ground_truth": "true"}
+{"statement": "On home health workers\u2019 low pay and limited benefits, \"40% are still on SNAP or Medicaid.\"", "ground_truth": "true"}
+{"statement": "\"We\u2019re importing about 10 percent of our milk supply. We\u2019re America\u2019s Dairyland, but yet we don\u2019t have enough milk in this state to meet the demand for our cheesemakers.\"", "ground_truth": "mostly-true"}
+{"statement": "College students \"who are NOT U.S. Citizens and who get the PELL Grant\" plan to return to their home countries after getting free gas cards and child care.", "ground_truth": "pants-fire"}
+{"statement": "\"Jan. 6 is being used as a pretext to strip millions of Americans, disfavored Americans, of their core constitutional rights.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Remember that developers are forced to use the \u2018195 land union\u2019 contractors, so tap an extra $10 million into any construction project.\"", "ground_truth": "false"}
+{"statement": "John McCain \"took on the drug industry.\"", "ground_truth": "mostly-true"}
+{"statement": "\"U.S. taxpayers are being forced to fund Feisal Abdul Rauf\u2019s trip to the Middle East.\"", "ground_truth": "true"}
+{"statement": "\"Our reserves are now in much better shape than they were just a few years ago.\"", "ground_truth": "true"}
+{"statement": "Tennis star Serena Williams wrote that she\u2019s \"sick of COVID-19. I\u2019m sick of black vs. white. I\u2019m sick of Democrats vs. Republicans. I\u2019m sick of gay vs. straight. I\u2019m sick of Christians vs atheists. I\u2019m REALLY sick of the media.\"", "ground_truth": "false"}
+{"statement": "John McCain \"said publicly that Hillary Clinton would make a good president.\"", "ground_truth": "true"}
+{"statement": "Under President Barack Obama\u2019s leadership, \"since June 2009, (the auto) industry has added a quarter of a million jobs.\"", "ground_truth": "true"}
+{"statement": "Before 2020, \"crime had been falling, every year, year after year, in the city of Buffalo.\"", "ground_truth": "mostly-true"}
+{"statement": "Says he's signed a pledge not to raise taxes four times.", "ground_truth": "true"}
+{"statement": "Video shows Donald Trump returning to Washington \"in a blaze of glory on Air Force 1.\"", "ground_truth": "pants-fire"}
+{"statement": "\"Kamala Harris Tried to Put Pro-Lifers in Jail Who Exposed Planned Parenthood Selling Baby Parts\"", "ground_truth": "false"}
+{"statement": "Forty-five percent of doctors \"say they'll quit\" if health care reform passes.", "ground_truth": "false"}
+{"statement": "Current immigration \"apprehension numbers are worse than the 'crisis' Biden/Obama/Pelosi acknowledged in 2014!\"", "ground_truth": "mostly-true"}
+{"statement": "\"Crime is down in Arizona.\"", "ground_truth": "true"}
+{"statement": "Quotes Tom Brady as saying, \"If anyone on my team kneels, I quit.\"", "ground_truth": "pants-fire"}
+{"statement": "Tallahassee is \"the ninth-rainiest (city) in the nation.\"", "ground_truth": "mostly-true"}
+{"statement": "In South Florida \"all children and adults must remain in their homes\" due to coronavirus.", "ground_truth": "pants-fire"}
+{"statement": "\"Pat Morrisey joined a federal lawsuit to allow insurance companies to deny coverage for people with pre-existing conditions.\"", "ground_truth": "mostly-true"}
+{"statement": "Numbers on illegal immigrants \"are down in terms of apprehensions, which indicates fewer illegal crossings, but also up in terms of actual enforcement actions.\"", "ground_truth": "mostly-true"}
+{"statement": "The National Science Foundation awarded $700,000 to fund a climate change musical.", "ground_truth": "true"}
+{"statement": "\"Up to half of all Americans have a pre-existing condition.\"", "ground_truth": "mostly-true"}
+{"statement": "Says about NSA data collection: \"Every member in both parties who served on the Intelligence Committee voted in favor of this.\"", "ground_truth": "mostly-true"}
+{"statement": "Tax cuts approved and those proposed in his state budget \"will exceed $8 billion by the time the budget is done.\"", "ground_truth": "true"}
+{"statement": "In Virginia, \"Medicaid has grown by 1,600 percent in the last 30 years.\"", "ground_truth": "true"}
+{"statement": "Public support for abortion \"is actually going down a little bit,\" polls show.", "ground_truth": "false"}
+{"statement": "\"Decorated Marine, two-tour Iraq war vet.\"", "ground_truth": "true"}
+{"statement": "Says El Chapo \"stated in court\" that James Comey helped launder $150 million \"cartel money for Pelosi.\"", "ground_truth": "pants-fire"}
+{"statement": "Says the 2019 coronavirus \"causes sudden death syndrome.\"", "ground_truth": "false"}
+{"statement": "House Republican plan would increase costs for Oregon seniors by $6,000 with health care vouchers instead of Medicare", "ground_truth": "mostly-true"}
+{"statement": "Says local Texas chambers of commerce were granted exemptions from paying property taxes on their headquarter properties.", "ground_truth": "true"}
+{"statement": "Video suggests Dr. Anthony Fauci said vaccines don\u2019t protect against COVID-19.", "ground_truth": "false"}
+{"statement": "The last time Republican U.S. Senate candidates \"beat more than two (incumbents) was 1980.\"", "ground_truth": "true"}
+{"statement": "A photograph shows Barack Obama kissing David Cameron.", "ground_truth": "pants-fire"}
+{"statement": "A photo shows two COVID-19 patients lying on the floor awaiting treatment in Florida.", "ground_truth": "true"}
+{"statement": "\"Murders this year have spiked 27% in Philadelphia.\"", "ground_truth": "true"}
+{"statement": "\"The average homeowner spends more than $2,000 each year on energy costs \u2013 more than on either real estate taxes or homeowners insurance.\"", "ground_truth": "true"}
+{"statement": "Video montage shows Kamala Harris and others faking vaccination.", "ground_truth": "false"}
+{"statement": "Matt Dolan sponsored Michael Bloomberg's \"red-flag gun confiscation law, letting the people reporting your social media posts send SWAT teams to your house to take your guns.\"", "ground_truth": "false"}
+{"statement": "Says that \"18 children died while in custody of Border Patrol\" during the Obama administration.", "ground_truth": "pants-fire"}
+{"statement": "Photo shows \"a German mall separating the vaccinated and unvaccinated.\"", "ground_truth": "false"}
+{"statement": "Under a public health care option, 120 million Americans will \"lose what they now get from private companies and be forced onto the government-run rolls as businesses decide it is more cost-effective for them to drop coverage.\"", "ground_truth": "false"}
+{"statement": "Says that his transportation budget and Ohio Turnpike plan \"would make sure we have lower tolls than we\u2019ve had through the history of the turnpike.\"", "ground_truth": "pants-fire"}
+{"statement": "Texas would have to increase current state spending by 28 percent just to reach the national average for spending per resident.", "ground_truth": "true"}
+{"statement": "Since the federal Violence Against Women Act was adopted in 1994, \"cases of domestic violence have fallen by 67 percent.\"", "ground_truth": "mostly-true"}
+{"statement": "Says the Democratic leadership and presidential candidates \"are mourning the loss of (Qassem) Soleimani\"", "ground_truth": "pants-fire"}
