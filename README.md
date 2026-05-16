@@ -5,6 +5,8 @@ DIGS 20006 · Spring 2026 · Deem Alothaimeen
 
 > **Note:** Best viewed in light mode.
 
+**Paper:** https://docs.google.com/document/d/10xe5A61gzaufyoVrCr6kvBQmpxXXEU7OZ73JJknNAy0/edit?usp=sharing
+
 ---
 
 ## Overview
