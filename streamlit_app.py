@@ -9,10 +9,10 @@ import streamlit.components.v1 as components
 #Constants
 
 RESULT_FILES = {
-    "Llama 3.2 3B":      "llama_results.jsonl",
-    "Gemma 3 27B":       "gemma_results.jsonl",
-    "Claude Sonnet 4.5": "claude_results.jsonl",
-    "GPT-4o":            "gpt_results.jsonl",}
+    "Llama 3.2 3B":      "Results/llama_results.jsonl",
+    "Gemma 3 27B":       "Results/gemma_results.jsonl",
+    "Claude Sonnet 4.5": "Results/claude_results.jsonl",
+    "GPT-4o":            "Results/gpt_results.jsonl",}
 
 MODELS = list(RESULT_FILES.keys())
 
@@ -84,7 +84,7 @@ def signature_response(text):
     text = re.sub(r'\n\s*\n+', '\n\n', text)
     return text.strip()
 
-def parse_paper_quotes(path="paper_quotes.txt"):
+def parse_paper_quotes(path="Results/paper_quotes.txt"):
     """Parse paper_quotes.txt into structured records grouped by model."""
     with open(path) as f:
         content = f.read()
@@ -120,7 +120,7 @@ def load_data():
 
     df = pd.DataFrame(rows)
 
-    with open("metrics_summary.json") as f:
+    with open("Results/metrics_summary.json") as f:
         metrics = json.load(f)
 
     return df, metrics
