@@ -4,7 +4,6 @@ import re
 
 import pandas as pd
 import streamlit as st
-import streamlit.components.v1 as components
 
 #Constants
 
@@ -301,7 +300,7 @@ accuracy_payload = json.dumps([
     }
     for row in metrics["accuracy"]])
 
-accuracy_html = """
+accuracy_html = r"""
 <style>
   body { margin: 0; padding: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: inherit; }
 
@@ -447,7 +446,7 @@ document.querySelectorAll('.tab').forEach(tab => {
 </script>
 """.replace("__DATA__", accuracy_payload)
 
-components.html(accuracy_html, height=380)
+st.iframe(srcdoc=accuracy_html, height=380)
 
 st.divider()
 
