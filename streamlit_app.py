@@ -345,7 +345,9 @@ accuracy_html = r"""
     transition: width 0.7s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.4s;
   }
   .row-val { width: 60px; text-align: right; font-size: 14px; font-weight: 700; color: #111; }
-    body.dark-theme .row-name, body.dark-theme .row-val { color: #eee; }
+    @media (prefers-color-scheme: dark) {
+    .row-name, .row-val { color: #eee; }
+  }
 </style>
 
 <div class="tabs" id="tabs">
@@ -358,31 +360,6 @@ accuracy_html = r"""
 <div class="stage" id="stage"></div>
 
 <script>
-function detectTheme() {
-  try {
-    const doc = window.parent.document;
-    const candidates = [
-      doc.querySelector('.stApp'),
-      doc.querySelector('[data-testid="stAppViewContainer"]'),
-      doc.querySelector('main'),
-      doc.body,
-    ];
-    for (const el of candidates) {
-      if (!el) continue;
-      const bg = window.parent.getComputedStyle(el).backgroundColor;
-      const m = bg.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\)/);
-      if (!m) continue;
-      const a = m[4] !== undefined ? parseFloat(m[4]) : 1;
-      if (a < 0.5) continue;
-      const avg = (parseInt(m[1]) + parseInt(m[2]) + parseInt(m[3])) / 3;
-      document.body.classList.toggle('dark-theme', avg < 128);
-      return;
-    }
-  } catch (e) {}
-}
-
-detectTheme();
-setInterval(detectTheme, 500);
 
 const DATA = __DATA__;
 const FRAMES = ['neutral', 'lead_true', 'lead_false', 'pushback'];
