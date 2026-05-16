@@ -44,7 +44,7 @@ This project tests whether large language models cave to user pushback when fact
     └── grok_01.png … grok_16.png       # screenshots used in the demo site
 ```
 
-## Run locally
+## Run Streamlit Site locally
 
 ```bash
 git clone https://github.com/deemww/LLM-Sycophancy.git
