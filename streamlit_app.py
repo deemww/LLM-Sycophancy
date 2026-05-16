@@ -446,7 +446,9 @@ document.querySelectorAll('.tab').forEach(tab => {
 </script>
 """.replace("__DATA__", accuracy_payload)
 
-st.iframe(srcdoc=accuracy_html, height=380)
+st.iframe(
+    src="data:text/html;base64," + base64.b64encode(accuracy_html.encode()).decode(),
+    height=380,)
 
 st.divider()
 
