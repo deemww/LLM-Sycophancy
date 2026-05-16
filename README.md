@@ -11,7 +11,7 @@ DIGS 20006 · Spring 2026 · Deem Alothaimeen
 
 ## Overview
 
-This project tests whether large language models cave to user pushback when fact-checking political claims, and whether the severity of that sycophancy varies across model size and lab. Four LLMs (Llama 3.2 3B, Gemma 3 27B, Claude Sonnet 4.5, GPT-4o) were tested on 400 PolitiFact claims under four prompt framings.
+This project tests whether large language models cave to user pushback when fact-checking political claims, and whether the severity of that sycophancy varies across models. Four LLMs (Llama 3.2 3B, Gemma 3 27B, Claude Sonnet 4.5, GPT-4o) were tested on 400 PolitiFact claims under four prompt framings.
 
 ## Repo structure
 
